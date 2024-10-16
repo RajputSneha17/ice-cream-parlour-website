@@ -13,7 +13,7 @@
 ---
 
 # 🌟 Overview 🌟
-Welcome to the Ice Cream Parlour Website! This responsive and user-friendly website is designed to provide a delightful experience for ice cream lovers. Built using HTML, CSS, and Vanilla JavaScript, it offers an interactive interface for browsing ice cream options, shopping, and leaving reviews. The website is optimized for both desktop and mobile users, ensuring a smooth experience across all devices.
+Welcome to the Ice Cream Parlour Website! This responsive and user-friendly website is designed to provide a delightful experience for ice cream lovers. Built using HTML, CSS, and Vanilla JavaScript, it offers an interactive interface for browsing ice cream options, shopping, and leaving reviews. The website is optimized for both desktop and mobile users, ensuring a smooth experience across all devices..
 
 ---
 
