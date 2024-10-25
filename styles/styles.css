@@ -349,6 +349,7 @@ h3 {
 
 .cart button {
     margin: 10px auto;
+    margin-bottom: 10px;
     width: 100%;
 }
 
@@ -389,7 +390,7 @@ h3 {
 
 /* -------------home styles------------------- */
 .home {
-    min-height: 95dvh;
+    min-height:  auto;
     display: flex;
     align-items: center;
     justify-content: space-between;
